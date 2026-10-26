@@ -1,2 +1,2 @@
 # Repo-B
-Привет
+Hello
